@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>class 1 lab</title>
+    <link rel="stylesheet" href="style.css" />
+    <style>
+      h1 {
+        color: green;
+      }
+    </style>
+  </head>
+  <body>
+    <header>
+      <h1 style="text-align: center; color: green">Class 1 lab</h1>
+    
+      <nav>
+        <!-- ul>li*3>a -->
+        <ul>
+          <li>
+            <a href="">home</a>
+          </li>
+          <li>
+            <a href="">about</a>
+          </li>
+          <li>
+            <a href="">products</a>
+          </li>
+        </ul>
+      </nav>
+    </header>
+    <main>
+      <!-- <div class="article"></div> -->
+      <article>
+        <section>
+
+          <p style=" color: red; background-color: royalblue;">what is your name?</p>
+          <p style=" color: black; background-color: sienna;">how much old are you?</p>
+          <p style=" color:rebeccapurple; background-color: silver; ">who is your favorite player?</p>
+          <p style="color: royalblue; background-color: black;" >what is your favorite club?</p>
+        </section>
+    </main>
+    <footer><p class="green">copyright &copy;</p></footer>
+    
+    <script>
+      // the code
+    </script>
+    <script src="script.js"></script>
+  </body>
+</html>
